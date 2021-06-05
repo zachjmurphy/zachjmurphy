@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Zach, A CYW Student from <img src="https://image.flaticon.com/icons/png/512/330/330442.png" width="19" height="19"/> <b>Ontario, Canada</b></p>
+<p>Welcome to my page! </br> I'm Zach, A CYW Student from <img src="https://i.imgur.com/A5PjUxb.png" width="18" height="13.5"/> <b>Ontario, Canada</b></p>
 <h3>Things I've Used</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
