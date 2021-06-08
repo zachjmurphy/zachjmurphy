@@ -38,7 +38,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/Website?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/Website?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/zachjmurphy/InsanitySearch"><b>Insanity Search</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/zachjmurphy/InsanitySearch?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/zachjmurphy/InsanitySearch?style=flat-square&labelColor=343b41"/></td>
@@ -51,6 +51,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/zachjmurphy/ChromeNewTab?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/ChromeNewTab?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/ChromeNewTab?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zachjmurphy/space-news"><b>Space News</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zachjmurphy/space-news?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zachjmurphy/space-news?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/space-news?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/space-news?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
