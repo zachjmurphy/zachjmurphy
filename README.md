@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Zach, A CYW Student from <img src="https://i.imgur.com/A5PjUxb.png" width="18" height="13.5"/> <b>Ontario, Canada</b></p>
+<p>I'm Zach, a student currently studying Child & Youth Care (CYC) from <img src="https://i.imgur.com/A5PjUxb.png" width="18" height="13.5"/> <b>Ontario, Canada</b></p>
+
 <h3>Things I've Used</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
