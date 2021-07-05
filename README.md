@@ -60,5 +60,19 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/zachjmurphy.link?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/zachjmurphy.link?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/zachjmurphy/zachjmurphy-projects"><b>zachjmurphy-projects</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zachjmurphy/zachjmurphy-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zachjmurphy/zachjmurphy-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/zachjmurphy-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/zachjmurphy-projects?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zachjmurphy/zachjmurphy-blog"><b>zachjmurphy-blog</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zachjmurphy/zachjmurphy-blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zachjmurphy/zachjmurphy-blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/zachjmurphy/zachjmurphy-blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zachjmurphy/zachjmurphy-blog?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
